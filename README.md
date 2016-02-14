@@ -1,6 +1,8 @@
 # Message Of The Day module for Jankbot
 By beatyt
 
+This is a module is for the (jankbot-modules)[https://github.com/JankGaming/jankbot-modules] project.
+
 ## Installation
 In your Jankbot home directory, `npm install jankbot-motd`
 
