@@ -10,5 +10,6 @@ This module is designed to get/set a motd for your community.
 
 Adding this module will add the following commands to your Jankbot:
 
-  'motd set MESSAGE - Sets the message if the user is an admin\n' +
-  'motd - Get the message of the day' + '\n\n';
+  `motd set MESSAGE - Sets the message if the user is an admin`
+
+  `motd - Get the message of the day`
